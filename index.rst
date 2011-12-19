@@ -12,8 +12,8 @@ Contents:
    :maxdepth: 2
 
    dict
-   attr
    descriptors
+   attr
    attribute
    special-methods
    slots
