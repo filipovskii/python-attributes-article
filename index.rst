@@ -14,8 +14,7 @@ Contents:
    dict
    descriptors
    attr
-   attribute
-   special-methods
+   summary
    slots
 
 
